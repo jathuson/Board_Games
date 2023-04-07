@@ -17,5 +17,3 @@ def ttt_gamelogwriter(game_count, player):
           writer = csv.writer(file)
 
           writer.writerow([game_count, player])
-
-create_game_log()
