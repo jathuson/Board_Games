@@ -4,7 +4,8 @@
 from RPS import play_rps
 from ttt import play_ttt
 from number_game import play_game
-# import checkers.play_checkers
+# import checkers.play_checkers1
+
 
 game_lib = {
     1: "Tic-Tac-Toe",
